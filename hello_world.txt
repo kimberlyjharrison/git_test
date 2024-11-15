@@ -1,1 +1,3 @@
 Adding text prior to staging
+
+testing vs code commit message
